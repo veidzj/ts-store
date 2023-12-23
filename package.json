@@ -10,7 +10,9 @@
   "author": "",
   "license": "ISC",
   "devDependencies": {
+    "@types/node": "^20.10.5",
     "git-commit-msg-linter": "^5.0.6",
+    "ts-node": "^10.9.2",
     "typescript": "^5.3.3"
   }
 }
